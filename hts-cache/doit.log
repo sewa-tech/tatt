@@ -1,0 +1,8 @@
+-qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "" -%F "" -%l "en, *" https://johns-tattoos.webflow.io/ -O1 "D:\client-sites\ta" +*.png* +*.gif* +*.jpg* +*.jpeg* +*.css* +*.js -ad.doubleclick.net/* -mime:application/foobar +*webp* +*.otf* +*.ttf* +*.svg* +*.woff2*
+File generated automatically on Sat, 13 Jan 2024 19:48:17, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
